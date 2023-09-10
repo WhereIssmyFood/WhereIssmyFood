@@ -36,7 +36,7 @@ ninendoswitchiscool@gmail.com for Random stuff.
 
 SpecificContact = "ninendoswitchiscool@gmail.com"
 
-Collaborations = f"I just wanna learn Coding, so if you have time to kill or wanna have fun, maybe {SpecificContact} me!"
+Collaborations = f"I just wanna learn Coding, so if you have time to kill or wanna have fun, maybe contact me with {SpecificContact}!"
 
 if ShareInfo == True:
     print(UserInterestDictionary, WhatAmILearningList, Contact, Collaborations)
