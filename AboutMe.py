@@ -34,6 +34,8 @@ Contact = """
 ninendoswitchiscool@gmail.com for Random stuff.
 """
 
+SpecificContact = "ninendoswitchiscool@gmail.com"
+
 Collaborations = f"I just wanna learn Coding, so if you have time to kill or wanna have fun, maybe {Contact} me!"
 
 if ShareInfo == True:
