@@ -6,7 +6,6 @@ if Username == "WhereIsMyFood":
 elif Username == "WhereIssMyFood":
 	print("That's my Name, but with an Additional s lol")
 	ShareInfo = True
-	return ShareInfo
 else:
 	print("What is my name..?")
 	input(">> ")
